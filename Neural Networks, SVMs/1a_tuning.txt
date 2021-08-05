@@ -1,0 +1,7 @@
+MLFFNN no. of neurons in hidden layer vs accuracies
+N   Train   Test
+1   50  50
+2   78.875  75
+3   95.75   94.1667
+4   99  100
+5   100 100
